@@ -10,8 +10,6 @@
     "flatpickr": "^4.1.4",
     "font-awesome": "^4.7.0",
     "i18next": "^10.2.1",
-    "i18next-browser-languagedetector": "^2.1.0",
-    "mdn-polyfills": "^5.5.0",
     "moment": "^2.19.3",
     "node-sass-chokidar": "0.0.3",
     "react": "^16.2.0",

@@ -1,4 +1,4 @@
-import 'mdn-polyfills/Array.prototype.find';
+import 'core-js/fn/array/find';
 
 function parseDeparture(rawDeparture, locations, operators) {
   // Get operator

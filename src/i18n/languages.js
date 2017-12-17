@@ -1,6 +1,5 @@
 import 'moment/locale/pt';
 import 'moment/locale/fr';
-import 'mdn-polyfills/Array.prototype.find';
 
 const LANGUAGES = [
   {
