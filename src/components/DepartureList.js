@@ -8,8 +8,8 @@ import '../styles/DepartureList.css';
 const DepartureList = (props) => {
   const { t } = props;
 
-  const sortedDepartures = () => props.departures.sort((dep1, dep2) => (
-    dep1.departureDate > dep2.departureDate ? 1 : 0
+  const sortedDepartures = () => props.departures.slice().sort((dep1, dep2) => (
+    dep1.departureDate - dep2.departureDate
   ));
 
   const emptyList = (
