@@ -1,3 +1,5 @@
+import 'mdn-polyfills/Array.prototype.find';
+
 const VALID_CITIES = [
   {
     geohash: 'dr5reg',
