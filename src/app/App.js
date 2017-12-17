@@ -15,7 +15,7 @@ class App extends Component {
       searchParams: {
         origin: 'dr5reg',
         destination: 'f25dvk',
-        date: new Date(Date.UTC(2018, 7, 2)),
+        date: new Date(2018, 7, 2),
       },
       language: props.i18n.language,
       isLoading: false,
