@@ -24,7 +24,7 @@ The latest version of the project has been deployed to Heroku at the following a
 
 https://busbud-challenge-danielpes.herokuapp.com/
 
-For deploying separate versions, the comand `npm run build`can be used, creating all the deployable code under the `build` directory.
+For deploying separate versions, the comand `npm run build` can be used, creating all the deployable code under the `build` directory.
 
 ### Screenshot
 
